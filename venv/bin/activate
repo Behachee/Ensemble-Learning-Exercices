@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/theob/Desktop/BCGx Hackathon/github/Ensemble-Learning-Exercices/venv"
+VIRTUAL_ENV="/Users/theob/Desktop/github/Ensemble-Learning-Exercices/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

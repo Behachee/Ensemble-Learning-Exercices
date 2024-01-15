@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/theob/Desktop/BCGx Hackathon/Ensemble-Learning-Exercices/venv/bin/python" "$0" "$@"
-' '''
+#!/Users/theob/Desktop/github/Ensemble-Learning-Exercices/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
