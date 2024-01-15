@@ -1,4 +1,4 @@
-#!/Users/theob/Desktop/github/Ensemble-Learning-Exercices/venv/bin/python3
+#!/Users/theob/Desktop/github/Ensemble-Learning-Exercices/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
